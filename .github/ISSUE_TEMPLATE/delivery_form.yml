@@ -129,9 +129,11 @@ body:
     attributes:
       label: 'Tabela de relacionamento'
       description: |
-        Artefato | Membros responsáveis pela execução | Membros responsáveis pela revisão | Deadline
-        : - : - : - : - :
-        Artefato 1 | Membro1, Membro2, Membro3 | Membro4, Membro5, Membro6 | dd/mm/aaaa - hh:mm
+        | Artefato | Membros responsáveis pela execução | Membros responsáveis pela revisão | Deadline |
+        |-|-|-|-|
+        | Artefato 1 | Membro1, Membro2, Membro3 | Membro4, Membro5, Membro6 | dd/mm/aaaa - hh:mm |
+        | Artefato 2 | Membro4, Membro5, Membro6 | Membro1, Membro2, Membro3 | dd/mm/aaaa - hh:mm |
+
 
       placeholder: 'Estruture a tabela aqui...'
 
