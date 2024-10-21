@@ -1,0 +1,219 @@
+name: 'Planejamento de Entrega'
+description: 'Template para orientar o planejamento das entregas'
+title: '[Planejamento] {{ entrega-titulo }}'
+labels: [Planejamento, Entrega]
+
+body:
+  - type: input
+    id: entrega-titulo
+    attributes:
+      label: 'Título da Entrega'
+      description: 'Insira o título da entrega'
+      placeholder: 'Título da entrega'
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        # {{ entrega-titulo }}
+
+        Este template serve para **planejar** as atividades relacionadas à entrega. Utilize as seções abaixo para organizar as tarefas, acompanhar o progresso e garantir que todos os requisitos sejam atendidos.
+
+  - type: textarea
+    id: entrega-descricao
+    attributes:
+      label: 'Descrição Geral da Entrega'
+      description: 'Forneça uma visão geral dos objetivos e requisitos desta entrega.'
+      placeholder: 'Descreva aqui a entrega...'
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Módulos/Focos da Entrega
+
+        Com base em cada foco da entrega, forneça mais detalhes.
+
+        Atenção: Na wiki das diretrizes existe uma descrição completa dos focos da entrega e seus respectivos artefatos.
+
+  - type: textarea
+    id: foco1
+    attributes:
+      label: 'Foco 1'
+      description: |
+        Forneça os artefatos obrigatórios para uma entrega mínima em formato de checkboxes, e também os artefatos propostos pelo grupo.
+
+        **Formato dos checkboxes:**
+
+        - [ ] Artefato 1
+        - [ ] Artefato 2
+        - [ ] Artefato 3
+
+        **Exemplo:**
+
+        ### Entrega mínima
+
+        - [ ] Diagrama de Classes
+        - [ ] Diagrama de Sequência
+
+        ### Entrega proposta pelo grupo
+
+        - [ ] Protótipo de Interface
+        - [ ] Plano de Testes
+
+      placeholder: 'Escreva aqui os artefatos...'
+  
+
+  - type: textarea
+    id: foco2
+    attributes:
+      label: 'Foco 2'
+      description: |
+        Forneça os artefatos obrigatórios para uma entrega mínima em formato de checkboxes, e também os artefatos propostos pelo grupo.
+
+        **Formato dos checkboxes:**
+
+        - [ ] Artefato 1
+        - [ ] Artefato 2
+        - [ ] Artefato 3
+
+        **Exemplo:**
+
+        ### Entrega mínima
+
+        - [ ] Diagrama de Classes
+        - [ ] Diagrama de Sequência
+
+        ### Entrega proposta pelo grupo
+
+        - [ ] Protótipo de Interface
+        - [ ] Plano de Testes
+
+      placeholder: 'Escreva aqui os artefatos...'
+  
+
+  - type: textarea
+    id: foco3
+    attributes:
+      label: 'Foco 3'
+      description: |
+        Forneça os artefatos obrigatórios para uma entrega mínima em formato de checkboxes, e também os artefatos propostos pelo grupo.
+
+        **Formato dos checkboxes:**
+
+        - [ ] Artefato 1
+        - [ ] Artefato 2
+        - [ ] Artefato 3
+
+        **Exemplo:**
+
+        ### Entrega mínima
+
+        - [ ] Diagrama de Classes
+        - [ ] Diagrama de Sequência
+
+        ### Entrega proposta pelo grupo
+
+        - [ ] Protótipo de Interface
+        - [ ] Plano de Testes
+
+      placeholder: 'Escreva aqui os artefatos...'        
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Relação dos membros do grupo responsáveis por cada artefato
+
+  - type: textarea
+    id: responsaveis-artefato
+    attributes:
+      label: 'Tabela de relacionamento'
+      description: |
+        Artefato | Membros responsáveis pela execução | Membros responsáveis pela revisão | Deadline
+        : - : - : - : - :
+        Artefato 1 | Membro1, Membro2, Membro3 | Membro4, Membro5, Membro6 | dd/mm/aaaa - hh:mm
+
+      placeholder: 'Estruture a tabela aqui...'
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Riscos e Mitigações
+
+        Identifique possíveis riscos que possam impactar a entrega e planeje ações de mitigação.
+
+  - type: textarea
+    id: riscos
+    attributes:
+      label: 'Análise de Riscos'
+      description: |
+        **Exemplo:**
+
+        - **Risco:** Atraso na obtenção de feedback do cliente.
+          - **Impacto:** Pode atrasar a finalização do protótipo.
+          - **Mitigação:** Agendar reuniões regulares para alinhamento.
+
+        - **Risco:** Falta de conhecimento em BPMN.
+          - **Impacto:** Qualidade dos diagramas pode ser comprometida.
+          - **Mitigação:** Realizar workshop interno sobre BPMN.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Iniciativas Extras (Opcional)
+
+        Planeje ou registre quaisquer iniciativas extras que a equipe pretenda realizar ou já realizou.
+
+  - type: textarea
+    id: iniciativas-extras
+    attributes:
+      label: 'Iniciativas Extras'
+      description: 'Descreva as iniciativas e inclua planos ou comprobatórios.'
+      placeholder: 'Detalhe as iniciativas aqui...'
+      optional: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Cronograma Geral
+
+        Liste as datas importantes e milestones da entrega.
+
+  - type: textarea
+    id: cronograma
+    attributes:
+      label: 'Cronograma'
+      placeholder: |
+        - **Início da Planejamento:** dd/mm/aaaa
+        - **Conclusão dos Artefatos Mínimos:** dd/mm/aaaa
+        - **Revisão Final:** dd/mm/aaaa
+        - **Data de Entrega:** dd/mm/aaaa
+      optional: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Observações Finais
+
+        Inclua quaisquer observações ou comentários adicionais relevantes ao planejamento e execução da entrega.
+
+  - type: textarea
+    id: observacoes
+    attributes:
+      label: 'Observações'
+      placeholder: 'Escreva suas observações aqui...'
+      optional: true
+  
+  - type: markdown
+    attributes:
+      value: |
+        ## Referências
+
+        Inclua quaisquer referências relevantes para a entrega.
+  
+  - type: textarea
+    id: referencias
+    attributes:
+      label: 'Referências'
+      placeholder: 'Escreva suas referências aqui...'
+      optional: true
