@@ -170,7 +170,6 @@ body:
       label: 'Iniciativas Extras'
       description: 'Descreva as iniciativas e inclua planos ou comprobatórios.'
       placeholder: 'Detalhe as iniciativas aqui...'
-      optional: true
 
   - type: markdown
     attributes:
@@ -188,7 +187,6 @@ body:
         - **Conclusão dos Artefatos Mínimos:** dd/mm/aaaa
         - **Revisão Final:** dd/mm/aaaa
         - **Data de Entrega:** dd/mm/aaaa
-      optional: true
 
   - type: markdown
     attributes:
@@ -202,7 +200,6 @@ body:
     attributes:
       label: 'Observações'
       placeholder: 'Escreva suas observações aqui...'
-      optional: true
   
   - type: markdown
     attributes:
@@ -216,4 +213,3 @@ body:
     attributes:
       label: 'Referências'
       placeholder: 'Escreva suas referências aqui...'
-      optional: true
