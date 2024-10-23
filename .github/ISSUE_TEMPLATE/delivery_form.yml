@@ -1,6 +1,6 @@
 name: 'Planejamento de Entrega'
 description: 'Template para orientar o planejamento das entregas'
-title: '[Planejamento] {{ entrega-titulo }}'
+title: '[Planejamento] Entrega N'
 labels: [Planejamento, Entrega]
 
 body:
@@ -16,7 +16,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        # {{ entrega-titulo }}
+        # Entrega N
 
         Este template serve para **planejar** as atividades relacionadas à entrega. Utilize as seções abaixo para organizar as tarefas, acompanhar o progresso e garantir que todos os requisitos sejam atendidos.
 
