@@ -1,0 +1,30 @@
+name: 'Task Form'
+description: 'Template para orientar a criacao de novas tarefas'
+title: '[Planejamento] Entrega N'
+labels: []
+
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: 'Descricao da Tarefa'
+      description: 'Insira uma breve descricao sobre o porque da criacao da tarefa'
+      placeholder: 'Insira aqui...'
+    validations:
+      required: true
+
+  - type: textarea
+    id: checklist
+    attributes:
+      label: 'Checklist da Tarefa'
+      description: 'Forneca em formato de checkboxes os passos necessários para a execução da tarefa'
+      placeholder: 'Insira aqui...'
+    validations:
+      required: false
+  
+  - type: textarea
+    id: referencia
+    attributes:
+      label: 'Referencias'
+      description: 'Insira referencias que possam ajudar na execucao da tarefa'
+      placeholder: 'Insira aqui...'
