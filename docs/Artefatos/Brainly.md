@@ -33,12 +33,31 @@ Além de perguntas abertas pedindo sugestões e ideias para a plataforma.
 
 
 ## <a> Divulgação </a>
-Divulgamos o link do Google forms para todos os grupos dos alunos da FGA que os membros estavam e logo na primeira hora já obtivemos mais de 15 respostas.Esse forms demora menos de um minuto para ser respondido e acreditamos que isso facilitou a quantidade de respostas sem comprometes nossa pesquisa de mercado.
+Divulgamos o link do Google forms para todos os grupos dos alunos da FGA que os membros estavam e logo na primeira hora já obtivemos mais de 15 respostas. Esse forms demora menos de um minuto para ser respondido e acreditamos que isso facilitou a quantidade de respostas sem comprometes nossa pesquisa de mercado.
 
 
 ## <a> Resultados da pesquisa </a>
+Obtivemos 43 respostas ao forms no total.
 
+Quanto ao levantamento demográfico, podemos observar que o público da fga é majoritariamente composta de estudantes de software entre 18 e 24 anos.
 
+![alt text](image-1.png)
+
+Pela imagem abaixo, também podemos observar que a maioria já se utilizou de plataformas educacionais alheias as da faculdade,  e a maioria utilizaria o fórum.
+
+![alt text](image-2.png)
+
+A maioria vê necessidade da existência de uma tecnologia gratuita e voltada para o ensino superior
+
+![alt text](image-3.png)
+
+Abaixo temos as sugestões dos alunos quanto a plataforma:
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+Dos 43, 11 alunos deixaram dados de contato para que pudéssemos consultá-los quanto á suas necessidades e caso desejassem ser nossos clientes.
 
 ## <a> Desdobramentos inesperados</a>
 
