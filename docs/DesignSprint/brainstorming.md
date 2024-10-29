@@ -1,8 +1,8 @@
-## <a>1. Introdução </a>
+## <a>1. Introdução</a>
 
 A equipe decidiu utilizar a técnica de brainstorming, envolvendo todos os membros para definir a temática do projeto e suas principais funcionalidades. A reunião, realizada via [Microsoft Teams](https://teams.microsoft.com/v2/)<a id="anchor_1" href="#REF1">^1^</a>, incluiu discussões, registro das ideias e votação dos conceitos. Ao mesmo tempo, a ferramenta [Miro](https://miro.com/pt/)<a id="anchor_2" href="#REF2">^2^</a> foi usada para criar mapas mentais e quadros visuais, facilitando a organização das ideias.
 
-## <a>2. Metodologia </a>
+## <a>2. Metodologia</a>
 Segundo BARBOSA e SILVA(2021)<a id="anchor_3" href="#REF3">^3^</a> o Brainstorming é uma técnica de geração de ideias que visa estimular a criatividade e a colaboração entre os participantes. Durante uma sessão de brainstorming, um grupo de pessoas se reúne para discutir um tema específico, onde são encorajadas a compartilhar livremente suas ideias, sem críticas ou julgamentos. O objetivo é explorar diversas perspectivas e soluções, promovendo um ambiente aberto que favorece a inovação. As contribuições podem variar desde sugestões simples até conceitos mais elaborados, e o resultado é um conjunto diversificado de ideias que pode ser refinado e desenvolvido posteriormente.
 
 BARBOSA e SILVA(2021)<a id="anchor_4" href="#REF4">^4^</a> Afirmam também que uma sessão de Brainstorming deve ter um moderador, que é responsável por fazer perguntas para esclarecer o que
@@ -19,9 +19,9 @@ A tabela 1 a seguir mostra como foi definida a divisão das tarefas:
 
 | Atividade | Responsável(eis) | 
 | :------: | :------: | 
-|Brainly (Estudantes da FGA e Professores da FGA)| Ana Carolina, Giovanni e Luiz|
-|Enem (Estudantes do Enem e Professores do EM)| Arthur, Gustavo, João e Júlio|
-|Duolingo (Professores da FGA)| Danilo, Diego, Felipe, Paulo|
+| Brainly (Estudantes da FGA e Professores da FGA) | Ana Carolina, Eric, Giovanni e Luiz |
+| Enem (Estudantes do Enem e Professores do EM) | Arthur, Gustavo, João e Júlio |
+| Duolingo (Professores da FGA) | Danilo, Diego, Felipe, Paulo |
 
 _Fonte: [João Artur Leles](https://github.com/joao-artl)_
 
