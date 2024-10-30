@@ -1,6 +1,6 @@
 name: 'Task Form'
 description: 'Template para orientar a criacao de novas tarefas'
-title: '[Planejamento] Entrega N'
+title: 'Título da tarefa'
 labels: []
 
 body:
