@@ -5,6 +5,7 @@
 <p style="text-indent: 50px;text-align: justify;">
 Por motivos de precaução e organização de processo, é necessário analisar possíveis riscos que possam surgir durante a execução do projeto, juntamente com suas causas e decisões a se tomar. Com isso, os riscos do projeto devem ser acompanhados a cada ciclo, a fim de evitar que eles aconteçam ou para perceber novos riscos.
 </p>
+
 <p style="text-indent: 50px;text-align: justify;">
 A tabela 1 apresenta o gerenciamento de riscos atrelado ao desenvolvimento do projeto.
 </p>
@@ -18,11 +19,14 @@ A tabela 1 apresenta o gerenciamento de riscos atrelado ao desenvolvimento do pr
 | Comunicação ineficiente entre a equipe | Dificuldade em marcar reuniões e falta de alinhamnento devido ao tamanho do grupo. | Realizar reuniões com objetivos pré-definidos e produzir ATAS para que as atualizações sejam compartilhadas de forma clara.                              | Médio |
 | Afinidade com as tecnologias |  O nível de conhecimento sobre as tecnologias que serão utilizadas pode ser muito distinto, e prejudicar o ritmo do desenvolvimento.   |  Elicitar os conhecimentos individuais de cada um e dividir as tarefas de forma equilibrada entre os squads; Programação em pares.  | Médio |
 |  Exceder prazo de entregas  | Dificuldade de organização do grupo com as entregas da disciplina.  |  Fazer um cronograma com as entregas para facilitar a organização dos membros para com as entregas do projeto.   | Alto |
+| Mudanças frequentes no escopo | Dificultam o planejamento, geram custos extras, desviam o foco da equipe e podem comprometer a qualidade do produto final devido ao retrabalho e falta de aprofundamento nas funcionalidades. |Definir claramente o backlog, estabelecer um processo organizado para o gerenciamento de mudanças de forma realista e transparente, identificar e priorizar requisitos e fornecer entregas frequentes.|Alta|
+|Falhas no controle de qualidade e testes| Comprometem a identificação de erros, levando a possíveis defeitos no produto final. Isso aumenta os riscos de retrabalho, reduz a confiabilidade do sistema e pode resultar em custos adicionais para correção de problemas após a entrega. |Identificar e priorizar as falhas, revisar processos, automatizar testes, estabelecer padrões de qualidade, adotar boas práticas de desenvolvimento, capacitar a equipe, manter comunicação com usuários e stakeholders.|Alta|
+|Concentração excessiva em uma única área resultando na não conclusão do produto completo do backlog| Esse foco desbalanceado limita a evolução do produto como um todo, atrasando entregas e prejudicando a visão global do projeto. Como consequência, funcionalidades importantes podem ficar de fora da versão final, comprometendo o atendimento das necessidades do usuário e os objetivos do projeto. |	Monitoramento constante, estabelecer uma exata definição de pronto, garantir a eficácia, eficiência, suporte e revisões, buscar expandir o conhecimento e entregar algo de qualidade e funcional.|Alta|
 
 </div>
 
 <h6 align="center">Tabela 1: Gerenciamento de Riscos.
-<br> Autor(a): <a href="https://github.com/gusrberto">Gustavo Melo</a>
+<br> Autor(a): <a href="https://github.com/gusrberto">Gustavo Melo</a> e <a href="https://github.com/ericbky">Eric Silveira </a>
 </h6>
 
 # **Critérios de Replanejamento do Projeto**
@@ -50,6 +54,11 @@ Ao atender a qualquer um dos critérios acima, os seguintes passos devem ser seg
   
 4. **Alinhamento do Escopo:** Se houver mudanças no escopo, comunicar e documentar claramente as novas diretrizes e expectativas entre todos os membros da equipe, alinhando os papéis e as responsabilidades.
 
+5. **Comunicação com Stakeholders:** Informar todos os stakeholders sobre as mudanças realizadas no planejamento, incluindo prazos, expectativas e novos riscos ou restrições. Garantir que todos os envolvidos estejam cientes das alterações e compreendam as razões e o impacto das mesmas.
+
+6. **Monitoramento Contínuo e Avaliação do Novo Plano:** Estabelecer um processo de monitoramento contínuo para avaliar o andamento do projeto de acordo com o replanejamento. Isso inclui definir checkpoints e métricas de desempenho para identificar rapidamente qualquer desvio que possa exigir ajustes adicionais.
+
+
 ## **Histórico de Versão**
 
 <p style="text-indent: 50px;text-align: justify;">
@@ -62,11 +71,11 @@ A tabela 2 apresenta o histórico de versão do artefato.
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 31/10/2024 | Criação do documento de Plano de Riscos  | [Gustavo Melo](https://github.com/gusrberto)  | [Eric Silveira](https://github.com/ericbky)  |
 | `1.1`  | 31/10/2024 | Adição dos critérios de replanejamento  | [Arthur Alves](https://github.com/arthrok)  | [Gustavo Melo](https://github.com/gusrberto)  |
-
+| `1.2`  | 31/10/2024 | Adição de riscos e seus gerênciamentos, objetivo do artefato e de critérios de replanejamento  | [Eric Silveira](https://github.com/ericbky)  | [Arthur Alves](https://github.com/arthrok)  |
 
 
 <h6 align="center">Tabela 2: Histórico de Versão
-<br> Autor(a): <a href="https://github.com/gusrberto">Gustavo Melo</a>
+<br> Autor(a): <a href="https://github.com/gusrberto">Gustavo Melo</a>, <a href="https://github.com/arthrok">Arthur Alves </a> e <a href="https://github.com/ericbky">Eric Silveira </a>
 </h6>
 
 
