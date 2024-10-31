@@ -33,6 +33,28 @@ Neste repositório, documentamos todos os artefatos desenvolvidos pelo grupo par
 
 - **Escolha e Implementação do BPMN Integrado a Metodologias Ágeis**: Optamos pelo uso do BPMN (Business Process Model and Notation) para modelar processos, integrando-o com práticas ágeis de desenvolvimento, como Scrum e Kanban, para garantir flexibilidade e controle sobre as atividades. Documentamos o processo de escolha e adaptação do BPMN para representar visualmente as etapas do projeto, oferecendo uma visão técnica precisa dos fluxos de trabalho e pontos críticos de tomada de decisão.
 
+### Design Sprint
+
+O Design Sprint está estruturado em cinco fases, iniciando com:
+
+- **Compreender**
+  - Realizamos um brainstorm para geração e idealização de ideias iniciais, incluindo pesquisa de mercado e contato com potenciais usuários.
+  - A partir das pesquisas, definimos o tema central do projeto.
+
+- **Divergir**
+  - Criamos rich pictures e um mapa mental para consolidar e integrar as ideias, ajudando a entender o escopo e objetivos.
+  - Desenvolvemos personas para visualizar o projeto a partir das perspectivas dos diferentes usuários, mapeando as necessidades de cada grupo-alvo.
+
+- **Decidir**
+  - Criamos uma Matriz SWOT para validar internamente as métricas de esforço relacionadas ao escopo do projeto.
+  - Estruturamos os requisitos utilizando o Diagrama de Ishikawa para mapear possíveis riscos no desenvolvimento do produto. Além disso, desenvolvemos histórias de usuários com critérios de aceitação, definindo claramente os entregáveis e obtendo uma visão mais precisa do produto final.
+
+- **Prototipar**
+  - Esboçamos nossas ideias em formatos iniciais de telas, desenvolvendo protótipos de baixa fidelidade para obter uma visão preliminar do produto e facilitar ajustes com base no feedback.
+
+- **Validar**
+  - Os protótipos de baixa fidelidade permitiram ao grupo validar a interface e a funcionalidade com os públicos-alvo, identificando melhorias antes de evoluir para protótipos de alta fidelidade.
+
 ## Screenshots da Primeira Entrega
 
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
