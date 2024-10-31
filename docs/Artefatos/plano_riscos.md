@@ -6,6 +6,11 @@
 Por motivos de precaução e organização de processo, é necessário analisar possíveis riscos que possam surgir durante a execução do projeto, juntamente com suas causas e decisões a se tomar. Com isso, os riscos do projeto devem ser acompanhados a cada ciclo, a fim de evitar que eles aconteçam ou para perceber novos riscos.
 </p>
 
+## **Objetivo do Plano de Riscos**
+<p style="text-indent: 50px;text-align: justify;">
+O objetivo deste artefato é fornecer uma estrutura detalhada para a identificação, análise e mitigação de riscos ao longo do projeto. Por meio da documentação e monitoramento contínuos dos riscos, buscamos antecipar e minimizar impactos negativos, assegurando que o projeto possa enfrentar incertezas de forma controlada e eficaz. Este plano orienta a equipe na execução de ações preventivas e contingenciais, garantindo a continuidade das atividades e o cumprimento dos objetivos, mesmo em cenários adversos.
+</p>
+
 <p style="text-indent: 50px;text-align: justify;">
 A tabela 1 apresenta o gerenciamento de riscos atrelado ao desenvolvimento do projeto.
 </p>
