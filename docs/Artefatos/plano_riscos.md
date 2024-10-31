@@ -25,6 +25,31 @@ A tabela 1 apresenta o gerenciamento de riscos atrelado ao desenvolvimento do pr
 <br> Autor(a): <a href="https://github.com/gusrberto">Gustavo Melo</a>
 </h6>
 
+# **Critérios de Replanejamento do Projeto**
+
+Durante a execução do projeto, é essencial monitorar e avaliar continuamente os fatores que podem exigir ajustes no plano de execução. Estabelecemos, assim, critérios específicos de replanejamento, que determinam as condições para uma revisão estratégica, garantindo a continuidade e o sucesso do projeto.
+
+## **Critérios para Início de Replanejamento**
+
+O replanejamento será iniciado se ocorrerem um ou mais dos seguintes fatores:
+
+1. **Materialização de Riscos:** Caso algum risco identificado no plano de gerenciamento de riscos se concretize, com impacto direto nas entregas ou na equipe.
+2. **Atrasos Recorrentes em Ciclos:** Se forem observados atrasos persistentes em um ou mais ciclos do projeto, afetando o cronograma geral e o cumprimento de marcos importantes.
+3. **Alteração no Escopo:** Modificações significativas no escopo do projeto que exijam uma adaptação da estrutura planejada ou das entregas.
+4. **Redução da Equipe:** Reduções no número de membros ou na disponibilidade da equipe, impactando a capacidade produtiva ou a divisão das tarefas planejadas.
+
+## **Procedimentos para Replanejamento**
+
+Ao atender a qualquer um dos critérios acima, os seguintes passos devem ser seguidos para ajustar o plano do projeto de maneira eficiente:
+
+1. **Revisão de Requisitos e Objetivos:** Avaliar se os requisitos e objetivos do projeto ainda são viáveis e alinhados com a nova realidade. Fazer adaptações, caso necessário, para refletir mudanças ou limitações.
+  
+2. **Redefinição dos Ciclos de Entrega:** Revisar o cronograma, distribuindo as entregas conforme a capacidade atual da equipe e os novos prazos, garantindo previsibilidade e minimizando os riscos de novos atrasos.
+  
+3. **Plano de Mitigação para Riscos Ativos:** Atualizar o plano de mitigação para tratar de riscos que se materializaram ou que apresentam maior chance de ocorrer, com foco em ações práticas para reduzir impactos futuros.
+  
+4. **Alinhamento do Escopo:** Se houver mudanças no escopo, comunicar e documentar claramente as novas diretrizes e expectativas entre todos os membros da equipe, alinhando os papéis e as responsabilidades.
+
 ## **Histórico de Versão**
 
 <p style="text-indent: 50px;text-align: justify;">
@@ -36,8 +61,13 @@ A tabela 2 apresenta o histórico de versão do artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 31/10/2024 | Criação do documento de Plano de Riscos  | [Gustavo Melo](https://github.com/gusrberto)  | [Eric Silveira](https://github.com/ericbky)  |
+| `1.1`  | 31/10/2024 | Adição dos critérios de replanejamento  | [Arthur Alves](https://github.com/arthrok)  | [Gustavo Melo](https://github.com/gusrberto)  |
+
+
+
 <h6 align="center">Tabela 2: Histórico de Versão
 <br> Autor(a): <a href="https://github.com/gusrberto">Gustavo Melo</a>
 </h6>
+
 
 </div>
