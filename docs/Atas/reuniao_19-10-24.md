@@ -19,7 +19,7 @@ Segue abaixo na tabela 1 a relação de presença dos participantes.
 **Tabela 1**- Participantes
 
 | Nome                                | Presença |
-|-------------------------------------|----------|
+| ----------------------------------- | -------- |
 | Ana Carolina Costa Cesar            |    Presente     |
 | Arthur Alves Melo                   |    Presente     |
 | Danilo Naves do Nascimento          |    Presente     |
@@ -74,10 +74,10 @@ Dessa forma, está descrito na Tabela 2 a divisão das atividades do grupo para 
 
 | Atividade | Responsável(eis) |
 | :------: | :------: | 
-| Introdução|Ana Carolina e Giovanni|
-| Visão Geral | Danilo, Eric, Felipe, Gustavo, Paulo|
-| Prós e Contras | Arthur, João, Luiz|
-| Conclusão | Diego e Júlio|
+| Introdução | Ana Carolina e Giovanni |
+| Visão Geral | Danilo, Eric, Felipe, Gustavo e Paulo |
+| Prós e Contras | Arthur, João e Luiz |
+| Conclusão | Diego e Júlio |
 
 _Fonte: [João Artur Leles](https://github.com/joao-artl)_
 
@@ -91,9 +91,9 @@ A Tabela 3 apresenta a distribuição das atividades entre os membros do grupo p
 
 | Atividade | Responsável(eis) | 
 | :------: | :------: | 
-|Brainly (Estudantes da FGA e Professores da FGA)| Ana Carolina, Giovanni e Luiz|
-|Enem (Estudantes do Enem e Professores do EM)| Arthur, Gustavo, João e Júlio|
-|Duolingo (Professores da FGA)| Danilo, Diego, Felipe, Paulo|
+| Brainly (Estudantes da FGA e Professores da FGA) | Ana Carolina, Eric, Giovanni e Luiz |
+| Enem (Estudantes do Enem e Professores do EM) | Arthur, Gustavo, João e Júlio |
+| Duolingo (Professores da FGA) | Danilo, Diego, Felipe e Paulo |
 
 _Fonte: [João Artur Leles](https://github.com/joao-artl)_
 
