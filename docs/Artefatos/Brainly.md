@@ -123,7 +123,16 @@ Devido ao desdobramento inesperado e dessa sobreposição de ideias, o Grupo G3 
 
 No entanto, graças ao google forms criados, recebemos muitas sugestões e ideias de plataformas educacionais, que é nosso tema. Dessa forma, mesmo que essa ideia não seja desenvolvida, essa análise enriqueceu o grupo com insights para os outros temas.
 
-## <a>7. Histórico de Versão</a>
+## <a>7. Referências</a>
+
+> <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 13 Tópicos Especiais, tópico 13.1 Gamificação, página 325. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF2" href="#anchor_2">2.</a> Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](https://www.google.com/intl/pt-BR/forms/about/). Acesso em: 25 de out de 2024
+
+> <a id="REF3" href="#anchor_3">3.</a> Slides de BPMN da professora Milene. Acesso em: 25 de out de 2024
+
+
+## <a>8. Histórico de Versão</a>
 
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) | Descrição da revisão |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: | :---------: |
