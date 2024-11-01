@@ -5,6 +5,7 @@
 
 - **Reuniões**
   - [Ata da Reunião 19/10/2024](/Atas/reuniao_19-10-24.md)
+  - [Ata da Reunião 30/10/2024](/Atas/reuniao_30-10-24.md)
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
