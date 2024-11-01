@@ -1,11 +1,11 @@
----
-name: Pull Request de Código
-about: Proponha mudanças no código do projeto
-title: 'feat: Descrição breve da funcionalidade ou fix: Descrição breve da correção'
-labels: code
-assignees: ''
+<!-- 
 
----
+----------------------------------------------------------
+
+TEMPLATE DE CODIGO 
+
+(Obs: Caso for utilizar esse template, apagar o template de artefato)
+-->
 
 # Descrição
 
@@ -41,3 +41,32 @@ Descreva os testes que foram realizados para verificar as mudanças. Inclua inst
 - [ ] Minhas mudanças não geram novos warnings
 - [ ] Adicionei testes que provam que a correção é eficaz ou que a funcionalidade funciona
 - [ ] Testes unitários novos e existentes passam com minhas mudanças
+
+<!-- 
+
+----------------------------------------------------------
+
+TEMPLATE DE ARTEFATO 
+
+(Obs: Caso for utilizar esse template, apagar o template de codigo)
+
+-->
+
+# Descrição
+
+Forneça um resumo das mudanças feitas na documentação.
+
+Relacionado à issue #(issue)
+
+## Tipo de mudança
+
+- [ ] Atualização de documentação existente
+- [ ] Adição de novo documento
+- [ ] Correção de erros de digitação ou gramática
+
+# Checklist
+
+- [ ] Meu texto segue as diretrizes de estilo deste projeto
+- [ ] Realizei uma revisão ortográfica e gramatical
+- [ ] Adicionei quaisquer referências relevantes
+- [ ] Minhas mudanças não afetam partes não relacionadas da documentação
