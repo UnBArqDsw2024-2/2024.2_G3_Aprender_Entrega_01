@@ -62,8 +62,8 @@ Após a finalização do mapa mental, que reuniu todas as ideias e detalhes extr
 |--------|------------|
 | Squad 1| - Criar as personas com base no mapa mental |
 | Squad 2| - Fazer matriz SWOT <br> - Histórias de usuário <br> - Diagrama Ishikawa |
-| Squad 3| - Criar artefato sobre o Mapa mental. |
-| Ambas equipes | - Criar BPMN sobre metodologia de trabalho adotada pelo squad | 
+| Squad 3| - Criar artefato sobre o Mapa mental. <br> - Ata de reunião <br> - Teste de usabilidade |
+| Ambas equipes | - Criar BPMN sobre metodologia de trabalho adotada pelo squad |
 
 _Fonte: [Danilo Naves](https://github.com/DaniloNavesS)_
 
@@ -78,4 +78,4 @@ _Fonte: [Danilo Naves](https://github.com/DaniloNavesS)_
 
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
-| `1.0` | 31/10/2024 | 31/10/2024 | Criação da Ata da Reunião | [Danilo Naves](https://github.com/DaniloNavesS) | Erick Silveira |
+| `1.0` | 31/10/2024 | 31/10/2024 | Criação da Ata da Reunião | [Danilo Naves](https://github.com/DaniloNavesS) | [Eric Silveira](https://github.com/ericbky) |
