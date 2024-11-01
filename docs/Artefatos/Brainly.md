@@ -137,4 +137,4 @@ No entanto, graças ao google forms criados, recebemos muitas sugestões e ideia
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) | Descrição da revisão |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: | :---------: |
 | `1.0` | 25/10/2024 | 30/10/2024 | Criação do Documento| [Ana Carolina Costa César](https://github.com/CarolCoCe) | [Giovanni Alvissus](https://github.com/giovanniacg) | Colocar fonte, metodologia e o histórico de versão|
-| `2.0` | 01/11/2024 |02/11/2024 | Melhorando o doc conforme a revisão| [Ana Carolina Costa César](https://github.com/CarolCoCe) | [Giovanni Alvissus](https://github.com/giovanniacg) | |
+| `2.0` | 01/11/2024 |02/11/2024 | Melhorando o doc conforme a revisão| [Ana Carolina Costa César](https://github.com/CarolCoCe) | [Giovanni Alvissus](https://github.com/giovanniacg) | Refatorar diretorio das imagens |
