@@ -1,8 +1,6 @@
 <!-- 
 
-----------------------------------------------------------
-
-TEMPLATE DE CODIGO 
+======================= TEMPLATE DE CODIGO  ==========================
 
 (Obs: Caso for utilizar esse template, apagar o template de artefato)
 -->
@@ -44,9 +42,7 @@ Descreva os testes que foram realizados para verificar as mudanças. Inclua inst
 
 <!-- 
 
-----------------------------------------------------------
-
-TEMPLATE DE ARTEFATO 
+======================= TEMPLATE DE ARTEFATO  ==========================
 
 (Obs: Caso for utilizar esse template, apagar o template de codigo)
 
