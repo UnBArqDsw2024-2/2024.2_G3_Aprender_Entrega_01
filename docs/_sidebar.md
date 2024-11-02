@@ -22,3 +22,6 @@
 
 - **Termos de Consentimento**
   - [Lacuna na graduação](/TermosDeConsentimento/Enquetes/Brainly.md)
+
+- **Templates**
+  - [Artefato](/Templates/template_artefato.md)
