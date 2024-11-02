@@ -6,6 +6,8 @@ No Design Sprint da equipe ficou decidido que cada integrante deveria elaborar u
 
 ## <a>2. Rich Pictures da Equipe</a>
 
+Os **rich pictures** individuais criados pela equipe serviram como uma ferramenta de brainstorm visual, permitindo a expressão de ideias e expectativas sobre a plataforma de forma criativa. Eles ajudaram a identificar temas comuns e áreas de inovação, promovendo alinhamento e clareza entre os membros para formar uma visão coesa do projeto.
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -18,6 +20,8 @@ No Design Sprint da equipe ficou decidido que cada integrante deveria elaborar u
 _Fonte: [Gustavo Melo](https://github.com/gusrberto) e [Eric Silveira](https://github.com/ericbky)_
 
 ## <a>3. Mapa Mental</a>
+
+O **mapa mental** criado a partir dos rich pictures individuais consolidou as ideias principais da equipe em uma estrutura única e organizada. Nele, foram mescladas as funcionalidades, fluxos e temas importantes, formando uma visão compartilhada do projeto. Esse processo permitiu identificar possibilidades, relacionar conceitos e alinhar a minimamente a direção do desenvolvimento, tornando as ideias coletivas mais claras e coesas para todos os envolvidos.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -34,7 +38,32 @@ _Fonte: [Gustavo Melo](https://github.com/gusrberto) e [Eric Silveira](https://g
 
 A plataforma de estudos visa fornecer uma experiência personalizada, motivadora e interativa para seus usuários, através de funcionalidades que integram dados de desempenho, interesses individuais e disponibilidade de tempo. Este documento detalha as principais funcionalidades propostas para tornar a experiência mais eficaz e engajante.
 
+
+#### <a>Visão Geral dos Compromissos e Benefícios para os Usuários</a>
+
+Essa tabela destaca os compromissos fundamentais da plataforma para oferecer uma experiência acessível, segura e sem custos, complementando as funcionalidades listadas na **Tabela 1**. Além de recursos de aprendizado personalizados, a plataforma se compromete com acessibilidade, segurança dos dados e suporte ao usuário, garantindo que todos tenham uma experiência inclusiva e de qualidade.
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> - Compromissos e Benefícios para os Usuários</p></font>
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Gratuidade** | A plataforma será disponibilizada de forma totalmente gratuita para os usuários, garantindo acesso universal e sem barreiras financeiras. |
+| **Acessibilidade** | Estamos comprometidos em implementar recursos de acessibilidade, permitindo que pessoas com deficiência visual, auditiva ou motora possam utilizar a plataforma com facilidade. |
+| **Privacidade e Segurança** | Todos os dados dos usuários serão protegidos, seguindo padrões de segurança e políticas de privacidade rigorosas para garantir a confidencialidade das informações pessoais. |
+| **Interface Intuitiva** | A plataforma terá uma interface amigável e fácil de navegar, adaptada a diferentes níveis de experiência tecnológica dos usuários. |
+| **Atualizações Constantes** | A plataforma será atualizada regularmente para incluir novos conteúdos, recursos e melhorias, visando atender as necessidades e demandas dos usuários. |
+| **Suporte ao Usuário** | Oferecemos um canal de suporte ativo para auxiliar os usuários, solucionar dúvidas e resolver problemas técnicos rapidamente. |
+| **Integração com Dispositivos** | A plataforma será responsiva e otimizada para acesso em dispositivos móveis e desktops, permitindo que os usuários estudem a qualquer hora e lugar. |
+
+_Fonte: [Gustavo Melo](https://github.com/gusrberto) e [Eric Silveira](https://github.com/ericbky)_
+
 #### <a>Visão Geral da Arquitetura Técnica</a>
+
+Essa tabela fornece uma visão geral da estrutura técnica que sustenta a plataforma, detalhando os principais componentes e tecnologias utilizados. A arquitetura do projeto foi projetada para suportar um ambiente de aprendizado escalável, seguro e eficiente, atendendo às funcionalidades descritas na **Tabela 2** a seguir, garantindo uma experiência estável e responsiva para todos os usuários.
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> - Arquitetura Técnica</p></font>
 
 | Funcionalidade | Descrição |
 |----------------|-----------|
@@ -120,4 +149,4 @@ Essas medidas não apenas melhoram a experiência do usuário, mas também otimi
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 01/11/2024 | Criação do documento do Mapa Mental  | [Gustavo Melo](https://github.com/gusrberto)  | [Eric Silveira](https://github.com/ericbky)  |
-| `1.1`  | 02/11/2024 | Inserção de tópicos importantes do Mapa mental  | [Eric Silveira](https://github.com/ericbky)  | [Gustavo Melo](https://github.com/gusrberto)  |
+| `1.1`  | 02/11/2024 | Adicionando pontos 4.5 até 4.8 da visao geral da arquitetura tecnica e visão dos compromissos e benefícios para os usuários | [Eric Silveira](https://github.com/ericbky)  | [Gustavo Melo](https://github.com/gusrberto)  |
