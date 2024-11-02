@@ -1,12 +1,12 @@
 # Histórias de Usuário - Persona José
 
-## <a> Introdução </a>
+## <a>1. Introdução </a>
 
 De acordo PRESSMAN e MAXIM(2016)<a id="anchor_1" href="#REF1">^1^</a>, uma história de usuário é descrita como um elemento que descreve os resultados, características e funcionalidades que os usuários finais esperam do software a ser desenvolvido.
 
 Em seu livro, PRESSMAN e MAXIM(2016)<a id="anchor_1" href="#REF1">^1^</a> também definem que a elaboração de uma história do usuário envolve o ato de escutar relatos do cliente que detalham as funcionalidades, características e resultados esperados do software. O cliente, por sua vez, atribui um valor de prioridade a cada história, baseando-se na importância relativa da funcionalidade para o negócio. Posteriormente, os membros da equipe avaliam cada história e determinam o custo associado, expresso em semanas de desenvolvimento, proporcionando uma base para a alocação de recursos e planejamento.
 
-## <a> Metodologia </a>
+## <a>2. Metodologia </a>
 
 A Tabela 1 a seguir apresenta um template para a elaboração de histórias de usuário dentro do projeto. A tabela é dividida em quatro colunas principais: ID, Título, Descrição e Critérios de Aceitação. Facilitando a organização e a referência cruzada das informações.
 
@@ -22,7 +22,7 @@ A Tabela 1 a seguir apresenta um template para a elaboração de histórias de u
 
 </center>
 
-## <a> Histórias de Usuário </a>
+## <a>3. Histórias de Usuário </a>
 
 A Tabela 2 a seguir apresenta um resumo detalhado das histórias de usuário desenvolvidas para o projeto, seguindo os elementos descritos no **template da Tabela 1**. Essas histórias foram criadas pelo membro João Artur, que as elaborou com base nas necessidades da persona José, considerando o [documento de Personas]().
 
@@ -52,4 +52,4 @@ A Tabela 2 a seguir apresenta um resumo detalhado das histórias de usuário des
 
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor | Revisor |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
-| `1.0` | 02/11/2024 | 02/11/2024 | Criação do documento de histórias de usuário da persona José | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.0` | 02/11/2024 | 03/11/2024 | Criação do documento de histórias de usuário da persona José | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
