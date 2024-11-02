@@ -18,10 +18,10 @@ Com foco na organização de elementos e na experiência de navegação, o prot�
 Para a construção do protótipo de baixa fidelidade, utilizamos uma abordagem colaborativa que incluiu sessões de brainstorming e criação de um mapa mental. Abaixo detalhamos as etapas seguidas:
 
 1. **Brainstorming:** Realizamos uma sessão de brainstorming com a equipe e os stakeholders para discutir ideias e funcionalidades desejadas. Esse processo nos permitiu explorar as necessidades do projeto e alinhar as expectativas sobre as funcionalidades e a experiência do usuário.
-   - **[Brainstorming](./brainstorming.md)**
+   - **[Brainstorming](../DesignSprint/brainstorming.md)**
 
 2. **Mapa Mental:** A partir das ideias geradas no brainstorming, criamos um mapa mental que organiza os principais elementos e fluxos do sistema. Esse mapa mental foi fundamental para visualizar a estrutura geral do protótipo e identificar as interações necessárias entre as telas e os componentes.
-   - **[Mapa Mental do Projeto](../mapa-mental.md)**
+   - **[Mapa Mental do Projeto](../DesignSprint/mapa-mental.md)**
 
 3. **Desenvolvimento das Telas:** Com o mapa mental como guia, desenhamos as telas iniciais do protótipo. Cada tela foi criada para refletir as ideias discutidas, com foco na disposição dos elementos e na navegação entre as diferentes seções.
    - **[Protótipo de Baixa Fidelidade - Telas](https://www.figma.com/design/OULlKQ9XGHSrkX6I9RD5QS/Prot%C3%B3tipo-de-Baixa-Fidelidade?node-id=0-1&t=aRTjdciWnN3Hqw9p-1)**
