@@ -102,3 +102,4 @@ _Fonte: [Arthur Alves](https://github.com/arthrok) e [Paulo Henrique](https://gi
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 02/11/2024 | Criação do documento Protótipo  | [Arthur Alves](https://github.com/arthrok) e [Paulo Henrique](https://github.com/paulomh)  | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Julio Cesar](https://github.com/julio-dourado) |
+| `1.1`  | 03/11/2024 | Adição adição da seção 4.1 | [Paulo Henrique](https://github.com/paulomh) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Julio Cesar](https://github.com/julio-dourado) |
