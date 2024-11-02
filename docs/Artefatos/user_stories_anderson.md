@@ -2,7 +2,9 @@
 
 ## 1. Introdução
 
-Este documento apresenta as User Stories elaboradas para o desenvolvimento de um site de banco de questões voltado para o ENEM, baseado na persona Anderson, um estudante de 16 anos que está treinando para o ENEM mas não sabe que curso escolher ainda. As User Stories foram criadas com o objetivo de atender às necessidades específicas do Anderson, considerando suas limitações de tempo, recursos financeiros e objetivos acadêmicos. Este documento servirá como referência para orientar o desenvolvimento das funcionalidades da plataforma, garantindo que elas estejam alinhadas com as expectativas dos usuários finais.
+
+
+Baseado nos conceitos apresentados por Cohn, M. (2004) em User Stories Applied: For Agile Software Development<a id="anchor_1" href="#REF1">^1^</a>, este documento apresenta as User Stories elaboradas para o desenvolvimento de um site de banco de questões voltado para o ENEM, baseado na persona Anderson, um estudante de 16 anos que está treinando para o ENEM mas não sabe que curso escolher ainda. As User Stories foram criadas com o objetivo de atender às necessidades específicas do Anderson, considerando suas limitações de tempo, recursos financeiros e objetivos acadêmicos. Este documento servirá como referência para orientar o desenvolvimento das funcionalidades da plataforma, garantindo que elas estejam alinhadas com as expectativas dos usuários finais.
 
 ## 2. Metodologia
 
@@ -64,8 +66,6 @@ Essa abordagem permite uma compreensão clara das funcionalidades necessárias e
 - **US17:** Como **Anderson**, **quero** visualizar um ranking dos alunos que tenham os mesmos emblemas que eu, para que eu possa competir de forma justa e me motivar para estudar e subir no ranking
 
 
-
-
 ## Referências Bibliográficas
 
 > <a id="REF1" href="https://athena.ecs.csus.edu/~buckley/CSc191/User-Stories-Applied-Mike-Cohn.pdf">1.</a> Cohn, M. (2004). _User Stories Applied: For Agile Software Development_. Addison-Wesley Professional.
@@ -74,4 +74,4 @@ Essa abordagem permite uma compreensão clara das funcionalidades necessárias e
 
 | Versão | Data       | Data de Revisão | Descrição               | Autor(es)                         | Revisor(es) | Detalhes da revisão |
 | ------ | ---------- | --------------- | ----------------------- | --------------------------------- | ----------- | ------------------- |
-| 1.0    | 01/11/2024 | 01/11/2024      | Criação do documento    | [Ana Carolina Costa César](https://github.com/CarolCoCe)           | N/A         | N/A                 |
+| 1.0    | 01/11/2024 | 02/11/2024      | Criação do documento    | [Ana Carolina Costa César](https://github.com/CarolCoCe)           | [João Artur Leles](https://github.com/joao-artl)       | Adicionando documento a sidebar, e corrigindo referência |
