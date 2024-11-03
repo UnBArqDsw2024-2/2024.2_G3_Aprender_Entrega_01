@@ -11,7 +11,7 @@ Elas são criadas a partir de estudos com relatos de clientes que descrevem suas
 </p>
 
 <p>
-Este documento tem como objetivo de detalhar as necessidades, características e funcionalidades de um software de estudo para o ENEM de desejo para a persona Lucas Ferreira, de 17 anos que está atrás de ser o primeiro da família a cursar um ensino superior em uma iniversidade pública.
+Este documento tem como objetivo de detalhar as necessidades, características e funcionalidades de um software de estudo para o ENEM de desejo para a persona Lucas Ferreira, de 17 anos que está atrás de ser o primeiro da família a cursar um ensino superior em uma Universidade pública.
 </p>
 
 ## 2. Métodologia
@@ -53,4 +53,4 @@ As histórias de usuário desenvolvidas refletem as necessidades e desejos da pe
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:---:|:---:|:---|:---|:---|
-| `1.0` | 01/11/2024 | Criação do documento e Adição das US01 a US06 | [Felipe Motta](https://github.com/M0tt1nh4) | - |
+| `1.0` | 01/11/2024 | Criação do documento e Adição das US01 a US06 | [Felipe Motta](https://github.com/M0tt1nh4) | [Ana Carolina](https://github.com/CarolCoCe)|
