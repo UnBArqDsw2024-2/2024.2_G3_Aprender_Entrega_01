@@ -146,7 +146,7 @@ Essas medidas não apenas melhoram a experiência do usuário, mas também otimi
 
 ## <a>Histórico de Versão</a>
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 01/11/2024 | Criação do documento do Mapa Mental  | [Gustavo Melo](https://github.com/gusrberto)  | [Eric Silveira](https://github.com/ericbky)  |
-| `1.1`  | 02/11/2024 | Adicionando pontos 4.5 até 4.8 da visao geral da arquitetura tecnica e visão dos compromissos e benefícios para os usuários | [Eric Silveira](https://github.com/ericbky)  | [Gustavo Melo](https://github.com/gusrberto)  |
+| Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | --------- |-------|
+| `1.0`  | 01/11/2024 |01/11/2024| Criação do documento do Mapa Mental  | [Gustavo Melo](https://github.com/gusrberto)  | [Eric Silveira](https://github.com/ericbky)  |
+| `1.1`  | 02/11/2024 |01/11/2024| Adicionando pontos 4.5 até 4.8 da visao geral da arquitetura tecnica e visão dos compromissos e benefícios para os usuários | [Eric Silveira](https://github.com/ericbky)  | [Gustavo Melo](https://github.com/gusrberto)  |
