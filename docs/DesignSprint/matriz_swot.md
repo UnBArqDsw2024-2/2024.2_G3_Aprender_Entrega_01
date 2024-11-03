@@ -27,13 +27,23 @@ Para a metodologia é importante analisarmos os fatores internos, como recursos,
 
 ## 3. Matriz SWOT
 
-A imagem abaixo apresenta o diagrama elaborado:
+<center>
 
-![Matriz SWOT](./assets/matriz_swot.png "Imagem 1 - Matriz SWOT")
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Imagem 1</b> - Matriz SWOT</p></font>
+
+![Matriz SWOT](./assets/matriz_swot.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Giovanni Giampauli](https://github.com/giovanniacg)</p></font>
+
+</figure>
+
+</center>
+
 
 ## 4. Análise e Conclusão
 
-A Matriz SWOT desenvolvida apresenta diversos pontos positivos e negativos para o produto. Foi possível identificar dentro dos pontos positivos, grandes pontos importantes para o objetivo do produto e diferenciais com concorrentes que podem o favoreces, além de boas oportunidades para crescente no mercado e novas features, por outro lado, dentro dos pontos negativos foi possível identificar o que pode ser melhorado e o que pode ser um problema para o produto, assim levando a equipe a pensar em como contornar esses problemas durante o desenvolvimento do produto.
+A Matriz SWOT desenvolvida apresenta diversos pontos positivos e negativos para o produto. Foi possível identificar dentro dos pontos positivos, grandes pontos importantes para o objetivo do produto e diferenciais com concorrentes que podem o favoreces, além de boas oportunidades para crescente no mercado e novas features, por outro lado, dentro dos pontos negativos foi possível identificar o que pode ser melhorado e o que pode ser um problema para o produto, assim foi possível pensar e criar as histórias de usuário de maneira mais concisa nos pontos fortes e com mais atenção nos pontos fracos, levando a equipe a pensar em como contornar esses problemas durante o desenvolvimento do produto.
 
 ## Referências Bibliográficas
 
@@ -41,6 +51,6 @@ A Matriz SWOT desenvolvida apresenta diversos pontos positivos e negativos para 
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|:---:|:---:|:---|:---:|:---:|
-| `1.0` | 03/11/2024 | Criação do documento | [Felipe Motta](https://github.com/M0tt1nh4) | - |
+| Versão | Data       | Data de Revisão          | Descrição            | Autor(es)                       | Revisor(es)                       | Detalhes da revisão        |
+| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | -------------------------- |
+| 1.0    | 03/11/2024 | 03/11/2024 | Criação do documento | [Felipe Motta](https://github.com/M0tt1nh4) | [Giovanni Giampauli](https://github.com/giovanniacg) | [#43](https://github.com/UnBArqDsw2024-2/2024.2_G3_Aprender_Entrega_01/pull/43) |
