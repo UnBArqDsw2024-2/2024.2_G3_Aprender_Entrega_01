@@ -97,6 +97,10 @@ _Fonte: [Arthur Alves](https://github.com/arthrok) e [Paulo Henrique](https://gi
    - **Descrição:** Tela que permitirá ao usuário criar um cronograma de estudos personalizado com base nos materiais de estudos. Nesta tela, o usuário poderá escolher entre diferentes áreas de conhecimento para definir no cronograma.
    - **Observação:** Apenas usuários logados terão acesso a essa tela.
 
+## <a>Bibliografia</a>
+
+> SERRANO, Milene. SERRANO, Maurício. Requisitos - Aula 23.
+
 ## <a>Histórico de Versão</a>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

@@ -39,10 +39,17 @@ border-radius: 8px; will-change: transform;">
   </iframe>
 </div>
 
+_Fonte: [Arthur Alves](https://github.com/arthrok)_
+
 #### <a>4.1.1. Artefatos Relacionados à Persona Lucas Ferreira</a>
    - **[USXX](#)**
 
 
+## <a>Bibliografia</a>
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> Cooper, Alan, 1952 - About face 3: the essentials of interaction design
 
 ## <a>Histórico de Versão</a>
 
