@@ -1,6 +1,6 @@
 ## <a>1. Introdução</a>
 
-A equipe utilizou o Diagrama de Ishikawa para identificar as causas dos problemas no desenvolvimento do projeto. Os membros [Ana Carolina](https://github.com/CarolCoCe), [Felipe Motta](https://github.com/M0tt1nh4) e [João Artur Leles](https://github.com/joao-artl) se reuniram via [Microsoft Teams](https://teams.microsoft.com/v2/), onde colaboraram na listagem e categorização das principais causas, como "Mão de Obra" e "Métodos". O diagrama foi criado de forma colaborativa no [Canva](https://www.canva.com/), o que facilitou a organização visual e a análise dos fatores críticos.
+A equipe utilizou uma adaptação do Diagrama de Ishikawa para identificar as causas dos problemas no desenvolvimento do projeto. Os membros [Ana Carolina](https://github.com/CarolCoCe), [Felipe Motta](https://github.com/M0tt1nh4) e [João Artur Leles](https://github.com/joao-artl) se reuniram via [Microsoft Teams](https://teams.microsoft.com/v2/), onde colaboraram na listagem e categorização das principais causas, como "Mão de Obra" e "Métodos". O diagrama foi criado de forma colaborativa no [Canva](https://www.canva.com/), o que facilitou a organização visual e a análise dos fatores críticos.
 
 ## <a>2. Metodologia</a>
 
