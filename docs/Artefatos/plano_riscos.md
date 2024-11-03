@@ -12,10 +12,13 @@ O objetivo deste artefato é fornecer uma estrutura detalhada para a identifica�
 </p>
 
 <p style="text-indent: 50px;text-align: justify;">
-A tabela 1 apresenta o gerenciamento de riscos atrelado ao desenvolvimento do projeto.
+A <b>tabela 1</b> apresenta o gerenciamento de riscos atrelado ao desenvolvimento do projeto.
 </p>
 
 <div align="center">
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> - Arquitetura Técnica</p></font>
 
 | Descrição                               | Causa                                                                                                                                 | Mitigação                                                                                                                                                                  | Impacto |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -30,7 +33,6 @@ A tabela 1 apresenta o gerenciamento de riscos atrelado ao desenvolvimento do pr
 
 </div>
 
-<h6 align="center">Tabela 1: Gerenciamento de Riscos.
 <br> Autor(a): <a href="https://github.com/gusrberto">Gustavo Melo</a> e <a href="https://github.com/ericbky">Eric Silveira </a>
 </h6>
 
@@ -67,20 +69,15 @@ Ao atender a qualquer um dos critérios acima, os seguintes passos devem ser seg
 ## **Histórico de Versão**
 
 <p style="text-indent: 50px;text-align: justify;">
-A tabela 2 apresenta o histórico de versão do artefato.
 </p>
 
 <div align="center">
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 31/10/2024 | Criação do documento de Plano de Riscos  | [Gustavo Melo](https://github.com/gusrberto)  | [Eric Silveira](https://github.com/ericbky)  |
-| `1.1`  | 31/10/2024 | Adição dos critérios de replanejamento  | [Arthur Alves](https://github.com/arthrok)  | [Gustavo Melo](https://github.com/gusrberto)  |
-| `1.2`  | 31/10/2024 | Adição de riscos e seus gerênciamentos, objetivo do artefato e de critérios de replanejamento  | [Eric Silveira](https://github.com/ericbky)  | [Arthur Alves](https://github.com/arthrok)  |
-
-
-<h6 align="center">Tabela 2: Histórico de Versão
-<br> Autor(a): <a href="https://github.com/gusrberto">Gustavo Melo</a>, <a href="https://github.com/arthrok">Arthur Alves </a> e <a href="https://github.com/ericbky">Eric Silveira </a>
+| Versão | Data |Data Prevista de Revisão| Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ---------- |------|
+| `1.0`  | 31/10/2024 | 01/11/2024 | Criação do documento de Plano de Riscos  | [Gustavo Melo](https://github.com/gusrberto)  | [Eric Silveira](https://github.com/ericbky)  |
+| `1.1`  | 31/10/2024 | 01/11/2024 | Adição dos critérios de replanejamento  | [Arthur Alves](https://github.com/arthrok)  | [Gustavo Melo](https://github.com/gusrberto)  |
+| `1.2`  | 31/10/2024 | 01/11/2024 | Adição de riscos e seus gerênciamentos, objetivo do artefato e de critérios de replanejamento  |-| [Eric Silveira](https://github.com/ericbky)  | [Arthur Alves](https://github.com/arthrok)  |
 </h6>
 
 
