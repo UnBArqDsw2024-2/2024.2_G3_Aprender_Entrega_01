@@ -13,6 +13,7 @@
       - 1.1.2. Pesquisa sobre temas
         - [1.1.2.1. ENEM](/Artefatos/enem.md)
         - [1.1.2.2. App Fragelli](/Artefatos/app_fragelli)
+      - [1.1.3. Diagrama de Ishikawa](/DesignSprint/ishikawa.md)
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. Plano de Risco](/Artefatos/plano_riscos.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
