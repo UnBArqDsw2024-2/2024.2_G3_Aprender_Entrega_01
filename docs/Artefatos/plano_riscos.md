@@ -1,12 +1,12 @@
-# ***Plano de Riscos***
+# <a>Plano de Riscos</a>
 
-## **Gerenciamento de Riscos**
+## <a>Gerenciamento de Riscos</a>
 
 <p style="text-indent: 50px;text-align: justify;">
 Por motivos de precaução e organização de processo, é necessário analisar possíveis riscos que possam surgir durante a execução do projeto, juntamente com suas causas e decisões a se tomar. Com isso, os riscos do projeto devem ser acompanhados a cada ciclo, a fim de evitar que eles aconteçam ou para perceber novos riscos.
 </p>
 
-## **Objetivo do Plano de Riscos**
+## <a>Objetivo do Plano de Riscos</a>
 <p style="text-indent: 50px;text-align: justify;">
 O objetivo deste artefato é fornecer uma estrutura detalhada para a identificação, análise e mitigação de riscos ao longo do projeto. Por meio da documentação e monitoramento contínuos dos riscos, buscamos antecipar e minimizar impactos negativos, assegurando que o projeto possa enfrentar incertezas de forma controlada e eficaz. Este plano orienta a equipe na execução de ações preventivas e contingenciais, garantindo a continuidade das atividades e o cumprimento dos objetivos, mesmo em cenários adversos.
 </p>
@@ -36,37 +36,37 @@ A <b>tabela 1</b> apresenta o gerenciamento de riscos atrelado ao desenvolviment
 <br> Autor(a): <a href="https://github.com/gusrberto">Gustavo Melo</a> e <a href="https://github.com/ericbky">Eric Silveira </a>
 </h6>
 
-# **Critérios de Replanejamento do Projeto**
+# <a>Critérios de Replanejamento do Projeto</a>
 
 Durante a execução do projeto, é essencial monitorar e avaliar continuamente os fatores que podem exigir ajustes no plano de execução. Estabelecemos, assim, critérios específicos de replanejamento, que determinam as condições para uma revisão estratégica, garantindo a continuidade e o sucesso do projeto.
 
-## **Critérios para Início de Replanejamento**
+## <a>Critérios para Início de Replanejamento</a>
 
 O replanejamento será iniciado se ocorrerem um ou mais dos seguintes fatores:
 
-1. **Materialização de Riscos:** Caso algum risco identificado no plano de gerenciamento de riscos se concretize, com impacto direto nas entregas ou na equipe.
-2. **Atrasos Recorrentes em Ciclos:** Se forem observados atrasos persistentes em um ou mais ciclos do projeto, afetando o cronograma geral e o cumprimento de marcos importantes.
-3. **Alteração no Escopo:** Modificações significativas no escopo do projeto que exijam uma adaptação da estrutura planejada ou das entregas.
-4. **Redução da Equipe:** Reduções no número de membros ou na disponibilidade da equipe, impactando a capacidade produtiva ou a divisão das tarefas planejadas.
+1. <a>Materialização de Riscos:</a> Caso algum risco identificado no plano de gerenciamento de riscos se concretize, com impacto direto nas entregas ou na equipe.
+2. <a>Atrasos Recorrentes em Ciclos:</a> Se forem observados atrasos persistentes em um ou mais ciclos do projeto, afetando o cronograma geral e o cumprimento de marcos importantes.
+3. <a>Alteração no Escopo:</a> Modificações significativas no escopo do projeto que exijam uma adaptação da estrutura planejada ou das entregas.
+4. <a>Redução da Equipe:</a> Reduções no número de membros ou na disponibilidade da equipe, impactando a capacidade produtiva ou a divisão das tarefas planejadas.
 
-## **Procedimentos para Replanejamento**
+## <a>Procedimentos para Replanejamento</a>
 
 Ao atender a qualquer um dos critérios acima, os seguintes passos devem ser seguidos para ajustar o plano do projeto de maneira eficiente:
 
-1. **Revisão de Requisitos e Objetivos:** Avaliar se os requisitos e objetivos do projeto ainda são viáveis e alinhados com a nova realidade. Fazer adaptações, caso necessário, para refletir mudanças ou limitações.
+1. <a>Revisão de Requisitos e Objetivos:</a> Avaliar se os requisitos e objetivos do projeto ainda são viáveis e alinhados com a nova realidade. Fazer adaptações, caso necessário, para refletir mudanças ou limitações.
   
-2. **Redefinição dos Ciclos de Entrega:** Revisar o cronograma, distribuindo as entregas conforme a capacidade atual da equipe e os novos prazos, garantindo previsibilidade e minimizando os riscos de novos atrasos.
+2. <a>Redefinição dos Ciclos de Entrega:</a> Revisar o cronograma, distribuindo as entregas conforme a capacidade atual da equipe e os novos prazos, garantindo previsibilidade e minimizando os riscos de novos atrasos.
   
-3. **Plano de Mitigação para Riscos Ativos:** Atualizar o plano de mitigação para tratar de riscos que se materializaram ou que apresentam maior chance de ocorrer, com foco em ações práticas para reduzir impactos futuros.
+3. <a>Plano de Mitigação para Riscos Ativos:</a> Atualizar o plano de mitigação para tratar de riscos que se materializaram ou que apresentam maior chance de ocorrer, com foco em ações práticas para reduzir impactos futuros.
   
-4. **Alinhamento do Escopo:** Se houver mudanças no escopo, comunicar e documentar claramente as novas diretrizes e expectativas entre todos os membros da equipe, alinhando os papéis e as responsabilidades.
+4. <a>Alinhamento do Escopo:</a> Se houver mudanças no escopo, comunicar e documentar claramente as novas diretrizes e expectativas entre todos os membros da equipe, alinhando os papéis e as responsabilidades.
 
-5. **Comunicação com Stakeholders:** Informar todos os stakeholders sobre as mudanças realizadas no planejamento, incluindo prazos, expectativas e novos riscos ou restrições. Garantir que todos os envolvidos estejam cientes das alterações e compreendam as razões e o impacto das mesmas.
+5. <a>Comunicação com Stakeholders:</a> Informar todos os stakeholders sobre as mudanças realizadas no planejamento, incluindo prazos, expectativas e novos riscos ou restrições. Garantir que todos os envolvidos estejam cientes das alterações e compreendam as razões e o impacto das mesmas.
 
-6. **Monitoramento Contínuo e Avaliação do Novo Plano:** Estabelecer um processo de monitoramento contínuo para avaliar o andamento do projeto de acordo com o replanejamento. Isso inclui definir checkpoints e métricas de desempenho para identificar rapidamente qualquer desvio que possa exigir ajustes adicionais.
+6. <a>Monitoramento Contínuo e Avaliação do Novo Plano:</a> Estabelecer um processo de monitoramento contínuo para avaliar o andamento do projeto de acordo com o replanejamento. Isso inclui definir checkpoints e métricas de desempenho para identificar rapidamente qualquer desvio que possa exigir ajustes adicionais.
 
 
-## **Histórico de Versão**
+## <a>Histórico de Versão</a>
 
 <p style="text-indent: 50px;text-align: justify;">
 </p>
@@ -77,7 +77,7 @@ Ao atender a qualquer um dos critérios acima, os seguintes passos devem ser seg
 | ------ | ---- | --------- | --------- | ---------- |------|
 | `1.0`  | 31/10/2024 | 01/11/2024 | Criação do documento de Plano de Riscos  | [Gustavo Melo](https://github.com/gusrberto)  | [Eric Silveira](https://github.com/ericbky)  |
 | `1.1`  | 31/10/2024 | 01/11/2024 | Adição dos critérios de replanejamento  | [Arthur Alves](https://github.com/arthrok)  | [Gustavo Melo](https://github.com/gusrberto)  |
-| `1.2`  | 31/10/2024 | 01/11/2024 | Adição de riscos e seus gerênciamentos, objetivo do artefato e de critérios de replanejamento  |-| [Eric Silveira](https://github.com/ericbky)  | [Arthur Alves](https://github.com/arthrok)  |
+| `1.2`  | 31/10/2024 | 01/11/2024 | Adição de riscos e seus gerênciamentos, objetivo do artefato e de critérios de replanejamento  | [Eric Silveira](https://github.com/ericbky)  | [Arthur Alves](https://github.com/arthrok)  |
 </h6>
 
 
