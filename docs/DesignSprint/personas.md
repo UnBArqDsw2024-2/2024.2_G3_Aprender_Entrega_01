@@ -28,9 +28,25 @@ Para a construção das personas, foi realizada uma pesquisa com potenciais usu�
 
 O uso das personas ao longo do desenvolvimento serve para orientar decisões, ajudando a garantir que as funcionalidades e a experiência do sistema estejam de acordo com as expectativas e necessidades reais dos usuários.
 
+## <a>4. Personas</a>
+
+### <a>4.1. Lucas Ferreira</a>
+
+<div style="position: relative; width: 100%; height: 500px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 0; margin-bottom: 0; overflow: hidden;
+border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;"
+    src="https://www.canva.com/design/DAGVa59Y2kY/capovZArFueoo_tccXYGCg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+#### <a>4.1.1. Artefatos Relacionados à Persona Lucas Ferreira</a>
+   - **[USXX](#)**
+
+
 
 ## <a>Histórico de Versão</a>
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
-| `1.0`  | 02/11/2024 | Criação do documento Personas  | [Arthur Alves](https://github.com/arthrok) e [Julio Cesar](https://github.com/julio-dourado) | [Paulo Henrique](https://github.com/paulomh) |
+| `1.0`  | 03/11/2024 | Criação do documento Personas  | [Arthur Alves](https://github.com/arthrok) e [Julio Cesar](https://github.com/julio-dourado) | [Paulo Henrique](https://github.com/paulomh) |
+| `1.1`  | 03/11/2024 | Adicionando Persona 4.1.1 Lucas Ferreira  | [Arthur Alves](https://github.com/arthrok) | [Julio Cesar](https://github.com/julio-dourado) |
