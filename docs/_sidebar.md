@@ -16,6 +16,7 @@
       - [1.1.3. Mapa Mental](/DesignSprint/mapa-mental.md)
       - [1.1.4. Protótipo](/DesignSprint/prototipo.md)
       - [1.1.5. Personas](/DesignSprint/personas.md)
+      - [1.1.6. Matriz de Rastreabilidade](/DesignSprint/rastreabilidade.md)
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. Plano de Risco](/Artefatos/plano_riscos.md)
       - [1.2.2. USs da Persona Anderson](/Artefatos/user_stories_anderson.md)
