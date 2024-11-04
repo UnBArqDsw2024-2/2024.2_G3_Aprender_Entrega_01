@@ -69,7 +69,7 @@ A versão final refinou os detalhes, adicionando fluxos de paralelismo das taref
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 4</b> - Design Sprint BPMN Versão 3.0</p></font>
 
-![Design Sprint BPMN Versão 3.0](./assets/DesignSprint_v3.0.jpg)
+![Design Sprint BPMN Versão 3.0](./assets/DesignSprint_v3.0.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Giampauli](https://github.com/giovanniacg)</p></font>
 
