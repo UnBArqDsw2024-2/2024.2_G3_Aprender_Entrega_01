@@ -20,7 +20,7 @@ Para um melhor entendimento dos diagramas, preparamos um glossário detalhando a
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Glossário de Cores e Formas</p></font>
 
-![Glossário de Cores e Formas](/docs/DesignSprint/assets/Glossário.jpg)
+![Glossário de Cores e Formas](./assets/Glossário.jpg)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Giampauli](https://github.com/giovanniacg)</p></font>
 
@@ -39,7 +39,7 @@ A primeira versão focou em um modelo geral da entrega, com apenas três raias g
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 2</b> - Design Sprint BPMN Versão 1.0</p></font>
 
-![Design Sprint BPMN Versão 1.0](/docs/DesignSprint/assets/DesignSprint_v1.0.jpg)
+![Design Sprint BPMN Versão 1.0](./assets/DesignSprint_v1.0.jpg)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Giampauli](https://github.com/giovanniacg)</p></font>
 
@@ -54,7 +54,7 @@ Na segunda versão, adicionamos mais raias relacionadas aos squads, além de sep
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - Design Sprint BPMN Versão 2.0</p></font>
 
-![Design Sprint BPMN Versão 2.0](/docs/DesignSprint/assets/DesignSprint_v2.0.jpg)
+![Design Sprint BPMN Versão 2.0](./assets/DesignSprint_v2.0.jpg)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Giampauli](https://github.com/giovanniacg)</p></font>
 
@@ -69,7 +69,7 @@ A versão final refinou os detalhes, adicionando fluxos de paralelismo das taref
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 4</b> - Design Sprint BPMN Versão 3.0</p></font>
 
-![Design Sprint BPMN Versão 3.0](/docs/DesignSprint/assets/DesignSprint_v3.0.jpg)
+![Design Sprint BPMN Versão 3.0](./assets/DesignSprint_v3.0.jpg)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Giampauli](https://github.com/giovanniacg)</p></font>
 
@@ -84,7 +84,7 @@ A versão final refinou os detalhes, adicionando fluxos de paralelismo das taref
 
 ## 5. Análise e Conclusão
 
-A evolução do modelo BPMN ao longo das três versões permitiu um refinamento contínuo do design sprint, resultando em um processo mais eficiente e alinhado com os objetivos do projeto. O uso do BPMN facilitou a comunicação entre os membros do grupo e contribuiu para a identificação de melhorias significativas.
+A evolução do modelo BPMN ao longo das três versões permitiu um refinamento contínuo do design sprint, resultando em um processo mais eficiente e alinhado com os objetivos do projeto. O uso do BPMN facilitou a comunicação entre os membros do grupo e contribuiu para a identificação de melhorias significativas, fazendo com que todos os squads participassem das fases do Design sprint.
 
 ## 6. Referências Bibliográficas
 
