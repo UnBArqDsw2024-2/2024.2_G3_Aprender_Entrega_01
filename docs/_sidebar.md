@@ -10,7 +10,7 @@
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
       - [1.1.1. Brainstorming](/DesignSprint/brainstorming.md)
-      - [1.1.2. Pesquisa sobre temas
+      - 1.1.2. Pesquisa sobre temas
         - [1.1.2.1. ENEM](/Artefatos/enem.md)
         - [1.1.2.2. App Fragelli](/Artefatos/app_fragelli)
       - [1.1.3. Diagrama de Ishikawa](/DesignSprint/ishikawa.md)
@@ -24,6 +24,7 @@
       - [1.2.2. USs da Persona Anderson](/Artefatos/user_stories_anderson.md)
       - [1.2.3. USs da Persona Maria](/Artefatos/user_story_maria.md)
       - [1.2.4. USs da Persona Lucas](/Artefatos/user_story_lucas.md)
+      - [1.2.5. USs da Persona José](/Artefatos/user_story_jose.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md) 
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
