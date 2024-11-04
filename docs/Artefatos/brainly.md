@@ -38,7 +38,7 @@ Foi criado um google forms, contendo além do termo de consentimento e de pergun
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Imagem 1</b> - Perguntas do questionário</p></font>
 
-![alt text](image.png)
+![alt text](./assets/image.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Alvissus](https://github.com/giovanniacg)</p></font>
 
@@ -56,61 +56,55 @@ Quanto ao levantamento demográfico, podemos observar pela imagem 2 que o públi
 
 
 <center>
-
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Imagem 2</b> - Respostas questionário - levantamento demográfico</p></font>
 
-![alt text](image-1.png)
+![alt text](./assets/image-1.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Alvissus](https://github.com/giovanniacg)</p></font>
 
 </figure>
-
+</center>
 
 <center>
-
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Imagem 3</b> - Respostas questionário</p></font>
 
-![alt text](image-2.png)
+![alt text](./assets/image-2.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Alvissus](https://github.com/giovanniacg)</p></font>
-
 </figure>
+</center>
 
 <center>
-
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Imagem 4</b> - Respostas questionário</p></font>
 
-![alt text](image-3.png)
+![alt text](./assets/image-3.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Alvissus](https://github.com/giovanniacg)</p></font>
-
 </figure>
+</center>
 
 <center>
-
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Imagem 5</b> - Respostas questionário</p></font>
 
-![alt text](image-4.png)
+![alt text](./assets/image-4.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Alvissus](https://github.com/giovanniacg)</p></font>
-
 </figure>
+</center>
 
 <center>
-
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Imagem 6</b> - Respostas questionário</p></font>
 
-![alt text](image-5.png)
+![alt text](./assets/image-5.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Giovanni Alvissus](https://github.com/giovanniacg)</p></font>
-
 </figure>
-
+</center>
 
 
 ## <a>5. Desdobramentos inesperados</a>
@@ -134,7 +128,8 @@ No entanto, graças ao google forms criados, recebemos muitas sugestões e ideia
 
 ## <a>8. Histórico de Versão</a>
 
-| Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) | Descrição da revisão |
-| :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: | :---------: |
-| `1.0` | 25/10/2024 | 30/10/2024 | Criação do Documento| [Ana Carolina Costa César](https://github.com/CarolCoCe) | [Giovanni Alvissus](https://github.com/giovanniacg) | Colocar fonte, metodologia e o histórico de versão|
-| `2.0` | 01/11/2024 |02/11/2024 | Melhorando o doc conforme a revisão| [Ana Carolina Costa César](https://github.com/CarolCoCe) | [Giovanni Alvissus](https://github.com/giovanniacg) | Refatorar diretorio das imagens |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Descrição da revisão |
+| :------: | :-----------: | :-----------: | :---------: | :---------: | :---------: |
+| `1.0` | 25/10/2024 | Criação do Documento| [Ana Carolina Costa César](https://github.com/CarolCoCe) | [Giovanni Alvissus](https://github.com/giovanniacg) | Colocar fonte, metodologia e o histórico de versão|
+| `2.0` | 01/11/2024 |  Melhorando o doc conforme a revisão| [Ana Carolina Costa César](https://github.com/CarolCoCe) | [Giovanni Alvissus](https://github.com/giovanniacg) | Refatorar diretorio das imagens |
+| `3.0` | 04/11/2024 | Refatora link das imagens e corrige HTML | [Giovanni Alvissus](https://github.com/giovanniacg) | N/D | N/D |
