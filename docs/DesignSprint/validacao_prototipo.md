@@ -36,18 +36,23 @@ A avaliação do protótipo foi conduzida com base em um roteiro de perguntas pr
 
 | Perguntas                                                                      | Respostas |
 | ------------------------------------------------------------------------------ | --------- |
-| 1. A prototipação representa bem o seu propósito?                              |           |
-| 2. Os aspectos de usabilidade estão bem evidentes na prototipação?             |           |
-| 3. Os elementos interativos estão claramente identificados?                    |           |
-| 4. O fluxo de navegação está intuitivo?                                        |           |
-| 5. O protótipo permite uma fácil compreensão das funcionalidades?              |           |
-| 6. Há algum elemento ou informação que esteja faltando?                        |           |
-| 7. A estrutura da informação está organizada de forma lógica?                  |           |
-| 8. O protótipo permite a realização das tarefas principais de forma eficiente? |           |
-| 9. Existem barreiras que dificultam a execução de ações pelo usuário?          |           |
+| 1. A prototipação representa bem o seu propósito?                              |   Sim, é bem objetivo o protótipo        |
+| 2. Os aspectos de usabilidade estão bem evidentes na prototipação?             | Sim          |
+| 3. Os elementos interativos estão claramente identificados?                    |  Sim, todos os botões esão bem organizados         |
+| 4. O fluxo de navegação está intuitivo?                                        |   Sim        |
+| 5. O protótipo permite uma fácil compreensão das funcionalidades?              |    Sim       |
+| 6. Há algum elemento ou informação que esteja faltando?                        |    Não, o protótipo está bastante completo       |
+| 7. A estrutura da informação está organizada de forma lógica?                  |   Sim, a estrutura tá bem definida        |
+| 8. O protótipo permite a realização das tarefas principais de forma eficiente? |     Sim      |
+| 9. Existem barreiras que dificultam a execução de ações pelo usuário?          |   Pelo o que está no protótipo não existe nada que dificulta        |
+
+## Gravação da reunião
+
+<iframe width="789" height="444" src="https://www.youtube.com/embed/pd3rk8KYnkY" title="Teste de Usabilidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                         | Autor(es)                                                                                                                                                                               | Revisor(es) |
 | ------ | ---------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| `1.0`  | 03/11/2024 | Criação do documento de validação | [Arthur Alves](https://github.com/arthrok), [Julio Cesar](https://github.com/julio-dourado), [Diego](https://github.com/diegosousaleite) e [Paulo Henrique](https://github.com/paulomh) |             |
+| `1.0`  | 03/11/2024 | Criação do documento de validação | [Julio Cesar](https://github.com/julio-dourado)[Arthur Alves](https://github.com/arthrok) |       [Arthur Alves](https://github.com/arthrok) , [Diego](https://github.com/diegosousaleite) e [Paulo Henrique](https://github.com/paulomh)      |
+| `1.0`  | 03/11/2024 | Vídeo da reunião juntamente com as respostas| [Diego](https://github.com/diegosousaleite) | [Arthur Alves](https://github.com/arthrok) , [Julio Cesar](https://github.com/julio-dourado) e [Paulo Henrique](https://github.com/paulomh)|
