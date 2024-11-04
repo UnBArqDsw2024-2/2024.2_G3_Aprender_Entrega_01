@@ -1,35 +1,48 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- [Projetos](/Projetos/Projetos.md)
+
+- **Entregas**
+  - **Desenho de Software (Base)**
+    [1. Entrega](/)
+    [2. Contribuições](/Avaliacoes/entrega_01.md)
 
 - **Reuniões**
   - [Ata da Reunião 19/10/2024](/Atas/reuniao_19-10-24.md)
   - [Ata da Reunião 30/10/2024](/Atas/reuniao_30-10-24.md)
-- **Base**
 
-  - [1. Desenho de Software (Base)](/Base/1.Base.md)
-    - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
-      - [1.1.1. Brainstorming](/DesignSprint/brainstorming.md)
-      - 1.1.2. Pesquisa sobre temas
-        - [1.1.2.1. ENEM](/Artefatos/enem.md)
-        - [1.1.2.2. App Fragelli](/Artefatos/app_fragelli)
-      - [1.1.3. Diagrama de Ishikawa](/DesignSprint/ishikawa.md)
-      - [1.1.4. Mapa Mental](/DesignSprint/mapa-mental.md)
-      - [1.1.5. Protótipo](/DesignSprint/prototipo.md)
-      - [1.1.6. Personas](/DesignSprint/personas.md)
-      - [1.1.7. Matriz de Rastreabilidade](/DesignSprint/rastreabilidade.md)
-      - [1.1.8. Matriz SWOT](/DesignSprint/matriz_swot.md)
-      - [1.1.9. Validação Protótipo](/DesignSprint/validacao_prototipo.md)
-    - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
-      - [1.2.1. Plano de Risco](/Artefatos/plano_riscos.md)
-      - [1.2.2. USs da Persona Anderson](/Artefatos/user_stories_anderson.md)
-      - [1.2.3. USs da Persona Maria](/Artefatos/user_story_maria.md)
-      - [1.2.4. USs da Persona Lucas](/Artefatos/user_story_lucas.md)
-      - [1.2.5. USs da Persona José](/Artefatos/user_story_jose.md)
-    - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
-    - [1.4. Participações - Base](Avaliacoes/Entrega_01.md) 
-    - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
+- **Design Sprint**
+  - [Planejamento](/DesignSprint/planejamento.md)
+
+- **Artefatos Generalistas**
+  - 1. **Escolha de tema**
+    - [1. Brainstorming](/Artefatos/brainstorming.md)
+  - 2. **Pesquisa de mercado**
+    - [1. ENEM](/Artefatos/enem.md)
+    - [2. App Fragelli](/Artefatos/app_fragelli)
+    - [3. Brainly](/Artefatos/brainly.md)
+  - 3. **Votação do grupo**
+    - [1. Tema escolhido](/)
+  - 4. **Trazendo contexto**
+    - [1. Rich Pictures](/)
+  - 5. **Mapeando ideias**
+    - [1. Mapa Mental](/Artefatos/mapa-mental.md)
+  - 6. **Identificação dos usuários alvo**
+    - [1. Personas](/Artefatos/personas.md)
+  - 7. **Análise do produto**
+    - [1. Matriz SWOT](/Artefatos/matriz_swot.md)
+    - [2. Diagrama de Ishikawa](/Artefatos/ishikawa.md)
+    - [3. Plano de Riscos](/Artefatos/plano_riscos.md)
+  - 8. **Criando User Stories**
+    - [1. Anderson](/Artefatos/user_story_anderson.md)
+    - [2. Maria](/Artefatos/user_story_maria.md)
+    - [3. Lucas](/Artefatos/user_story_lucas.md)
+    - [4. José](/Artefatos/user_story_jose.md)
+  - 9. **Prototipação**
+    - [1. Protótipo de baixa fidelidade](/Artefatos/prototipo.md)
+    - [2. Matriz de Rastreabilidade](/Artefatos/rastreabilidade.md)
+  - 10. **Validação**
+    - [1. Validação do protótipo](/Artefatos/validacao_prototipo.md)
 
 - **Termos de Consentimento**
 
