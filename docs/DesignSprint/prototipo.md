@@ -41,61 +41,85 @@ _Fonte: [Arthur Alves](https://github.com/arthrok) e [Paulo Henrique](https://gi
 
    - **Descrição:** Tela inicial da aplicação. Deve conter elementos que permitam ao usuário navegar para as demais áreas do site.
    - **Observação:** Nenhuma observação adicional no momento.
-
+   
+   ![Tela 1: Início - User não logado](../DesignSprint/assets/Tela1.png) 
+   
 - Tela 1.1: Login
 
    - **Descrição:** Tela de login do usuário. Deve conter um pequeno formulário para login e uma opção para recuperar senha e, caso seja um usuário novo, ser direcionado para tela de cadastro.
    - **Observação:** Possibilidade de colocar formas alternativas de login.
+
+   ![Tela 1.1: Login](../DesignSprint/assets/Tela1.1.png) 
 
 - Tela 1.2: Cadastro
 
    - **Descrição:** Tela de cadastro do usuário. Essa tela deve conter um formulário para cadastro tanto de aluno ou de professor.
    - **Observação:** Nenhuma observação adicional no momento.
 
+   ![Tela 1.2: Cadastro](../DesignSprint/assets/Tela1.2.png) 
+
 - Tela 1.3: Início - User logado
 
    - **Descrição:** Tela inicial da aplicação. Deve conter elementos que permitam ao usuário navegar para as demais áreas do site.
    - **Observação:** Nenhuma observação adicional no momento.
+
+   ![Tela 1.3: Início - User logado](../DesignSprint/assets/Tela1.3.png) 
 
 - Tela 2: Perfil - Dashboard
 
    - **Descrição:** Tela que possuirá um dashboard com dados relacionados as questões e\ou simulados feitos pelo usuário. Além disso, esta tela possuirá a foto de perfil do usuário e um pequeno mural contendo seus badges\conquistas. Nesta tela, o usuário poderá editar seus dados pessoais e editar quais badges\conquistas aparecerão para outros usuários, além de ter uma breve descrição sobre o usuário.
    - **Observação:** Apenas usuários cadastrados terão acesso a essa tela.
 
+   ![Tela 2: Perfil - Dashboard](../DesignSprint/assets/Tela2.png) 
+
 - Tela 3: Opções do simulado
 
    - **Descrição:** Tela que permitirá ao usuário escolher as opções do simulado, como: ano da prova, distribuição de questões, dia prova, se deseja incluir cronômetro, se deseja definir um tempo máximo para fazer o simulado, entre outros.
    - **Observação:** Apenas usuários logados terão acesso a essa tela.
+
+   ![Tela 3: Opções do simulado](../DesignSprint/assets/Tela3.png) 
 
 - Tela 3.1: Simulado
 
    - **Descrição:** Tela que seguirá o formato da prova do Enem, contendo apenas questões de um dos dias escolhidos pelo usuário e, ao final do simulado, conterá uma parte dedicada para a redação.
    - **Observação:** Esta tela também se repetirá N vezes com base na quantidade de questões da prova e apenas usuários logados poderão ter acesso a ela.
 
+   ![Tela 3.1: Simulado](../DesignSprint/assets/Tela3.1.png) 
+
 - Tela 4: Criação de questões
 
    - **Descrição:** Tela que permitirá professores cadastrados criarem suas próprias questões seguindo o padrão de formato do Enem. Nesta tela, o professor poderá preencher um formulário contendo um enunciado, área relacionada, matéria relacionada e conteúdo relacionado, além de definir as alternativas e, se necessário, anexar imagens. Ao lado do formulário, haverá um componente que permitirá ao professor visualizar como a questão ficará no formato do Enem.
    - **Observação:** Apenas professores cadastrados e verificados terão acesso a essa tela.  
+
+   ![Tela 4: Criação de questões](../DesignSprint/assets/Tela4.png) 
 
 - Tela 4.1: Questões
 
    - **Descrição:** Tela com questões do Enem. No início da tela ficarão opções para filtrar as questões com base em critérios decididos posteriormente e um botão para aplicar o filtro. No restante da tela, ficará visível um número definido de questões seguindo o padrão: enunciado, imagem (se tiver), alternativas em forma de cascata.
    - **Observação:** O usuário não logado conseguirá visualizar as questões, mas não as responder. Note que esta tela se repetirá N vezes.
 
+   ![Tela 4.1: Questões](../DesignSprint/assets/Tela4.png) 
+
 - Tela 5: Ranking
    
    - **Descrição:** Tela que mostrará um ranking com os usuários que mais acertaram questões do Enem. O ranking possuirá um top 3 com os alunos mais dedicados à plataforma e uma lista com o restante dos usuários.
    - **Observação:** Apenas usuários logados terão acesso a essa tela.
+
+   ![Tela 5: Ranking](../DesignSprint/assets/Tela5.png) 
    
 - Tela 6: Materiais de estudo
 
    - **Descrição:** Tela que conterá materiais de estudo para o Enem. Nesta tela, o usuário poderá escolher entre diferentes áreas de conhecimento e, ao clicar em uma área, será direcionado para uma tela com materiais de estudo relacionados a essa área.
    - **Observação:** Apenas usuários logados terão acesso a essa tela.
 
+   ![Tela 6: Materiais de estudo](../DesignSprint/assets/Tela6.png) 
+
 - Tela 6.1: Cronograma de estudos
 
    - **Descrição:** Tela que permitirá ao usuário criar um cronograma de estudos personalizado com base nos materiais de estudos. Nesta tela, o usuário poderá escolher entre diferentes áreas de conhecimento para definir no cronograma.
    - **Observação:** Apenas usuários logados terão acesso a essa tela.
+
+   ![Tela 6.1: Cronograma de estudos](../DesignSprint/assets/Tela6.1.png)
 
 ## <a>Bibliografia</a>
 
