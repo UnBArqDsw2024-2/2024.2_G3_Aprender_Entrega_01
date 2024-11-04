@@ -28,7 +28,7 @@
       - [1.2.4. USs da Persona Lucas](/Artefatos/user_story_lucas.md)
       - [1.2.5. USs da Persona José](/Artefatos/user_story_jose.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
-    - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
+    - [1.4. Participações - Base](Avaliacoes/Entrega_01.md) 
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
 
 - **Termos de Consentimento**
