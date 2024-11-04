@@ -73,4 +73,4 @@ Entre os principais benefícios, destacaram-se a maior flexibilidade e a reduç�
 
 | Versão | Data       | Data de Revisão | Descrição               | Autor(es)                         | Revisor(es) | Detalhes da revisão |
 | ------ | ---------- | --------------- | ----------------------- | --------------------------------- | ----------- | ------------------- |
-| `1.0`    | 03/11/2024 | 03/11/2024      | Criação do documento    | [João Artur Leles](https://github.com/joao-artl)           | [Giovanni Giampauli](https://github.com/giovanniacg)| - |
+| `1.0`    | 03/11/2024 | 03/11/2024      | Criação do documento    | [João Artur Leles](https://github.com/joao-artl)           | [Giovanni Giampauli](https://github.com/giovanniacg) | Perfeito! |
