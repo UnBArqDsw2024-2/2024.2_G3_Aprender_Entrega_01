@@ -81,5 +81,5 @@ Este documento permite que o grupo e a professora orientadora do projeto tenha u
 
 | Versão | Data       | Data de Revisão | Descrição             | Autor(es)                       | Revisor(es) | Detalhes da revisão |
 |--------|------------|-----------------|-----------------------|---------------------------------|-------------|---------------------|
-| 1.0    | 03/11/2024 | 03/11/2024      | Criação do documento  | [Danilo Naves](https://github.com/DaniloNavesS)| Todos | N/A                 |
+| 1.0    | 03/11/2024 | 03/11/2024      | Criação do documento  | [Danilo Naves](https://github.com/DaniloNavesS), [Giovanni Alvissus](https://github.com/giovanniacg)| Todos | N/A               |
 
