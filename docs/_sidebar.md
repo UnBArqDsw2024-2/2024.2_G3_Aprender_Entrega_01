@@ -19,8 +19,9 @@
     - [1.4. Brainly](/Artefatos/brainly.md)
     - [1.5. Rich Pictures](/)
   - **2. Divergir**
-    - [2.1. Mapa Mental](/Artefatos/mapa-mental.md)
-    - [2.2. Personas](/Artefatos/personas.md)
+    - [2.1. Tema Escolhido](/Artefatos/tema_escolhido.md)
+    - [2.2. Mapa Mental](/Artefatos/mapa-mental.md)
+    - [2.3. Personas](/Artefatos/personas.md)
   - **3. Decidir**
     - [3.1. Matriz SWOT](/Artefatos/matriz_swot.md)
     - [3.2. Diagrama de Ishikawa](/Artefatos/ishikawa.md)
